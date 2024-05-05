@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dataforchall2/static/css/main.f7bb4492.css",
+    "main.js": "/dataforchall2/static/js/main.0eebce70.js",
+    "index.html": "/dataforchall2/index.html",
+    "main.f7bb4492.css.map": "/dataforchall2/static/css/main.f7bb4492.css.map",
+    "main.0eebce70.js.map": "/dataforchall2/static/js/main.0eebce70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7bb4492.css",
+    "static/js/main.0eebce70.js"
+  ]
+}
