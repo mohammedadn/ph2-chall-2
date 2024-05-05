@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dataforchall2/static/css/main.f7bb4492.css",
-    "main.js": "/dataforchall2/static/js/main.0eebce70.js",
-    "index.html": "/dataforchall2/index.html",
-    "main.f7bb4492.css.map": "/dataforchall2/static/css/main.f7bb4492.css.map",
-    "main.0eebce70.js.map": "/dataforchall2/static/js/main.0eebce70.js.map"
+    "main.css": "/ph2-chall-2/static/css/main.f7bb4492.css",
+    "main.js": "/ph2-chall-2/static/js/main.0eebce70.js",
+    "index.html": "/ph2-chall-2/index.html",
+    "main.f7bb4492.css.map": "/ph2-chall-2/static/css/main.f7bb4492.css.map",
+    "main.0eebce70.js.map": "/ph2-chall-2/static/js/main.0eebce70.js.map"
   },
   "entrypoints": [
     "static/css/main.f7bb4492.css",
