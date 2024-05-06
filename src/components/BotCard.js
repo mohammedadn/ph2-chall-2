@@ -38,7 +38,7 @@ function BotCard({ bot, addToArmy, removeFromArmy }) {
     <div className="ui column">
      
         <div className="ui card" key={bot.id} onClick={handleClick}>
-        <Link to={`/bot/${bot.id}`}>
+        <Link to={`/ph2-chall-2/bot/${bot.id}`}>
           <div className="image">
             <img alt="oh no!" src={bot.avatar_url} />
           </div>

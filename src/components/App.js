@@ -29,8 +29,8 @@ function App() {
   return (
    
       <Routes>
-        <Route path="/" element={<BotsPage bots = {bots} botArmy={botArmy} addToArmy = {addToArmy} removeFromArmy={removeFromArmy}/>} />
-        <Route path="/bot:id" element={<BotSpecs addToArmy = {addToArmy} />} />
+        <Route path="/ph2-chall-2" element={<BotsPage bots = {bots} botArmy={botArmy} addToArmy = {addToArmy} removeFromArmy={removeFromArmy}/>} />
+        <Route path="/ph2-chall-2/bot/:id" element={<BotSpecs addToArmy = {addToArmy} />} />
       </Routes>
   
   );
