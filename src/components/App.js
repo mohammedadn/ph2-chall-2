@@ -21,7 +21,7 @@ function App() {
   };
 
   useEffect(() => {
-    fetch("https://bot-battlr-challenge-2.onrender.com/bots")
+    fetch("https://jsonnna.onrender.com/bots")
     .then(response => response.json())
     .then(data => setBots(data));
   },[botArmy]);
@@ -30,7 +30,7 @@ function App() {
    
       <Routes>
         <Route path="/" element={<BotsPage bots = {bots} botArmy={botArmy} addToArmy = {addToArmy} removeFromArmy={removeFromArmy}/>} />
-        <Route path="/bot/:id" element={<BotSpecs addToArmy = {addToArmy} />} />
+        <Route path="/bot:id" element={<BotSpecs addToArmy = {addToArmy} />} />
       </Routes>
   
   );
